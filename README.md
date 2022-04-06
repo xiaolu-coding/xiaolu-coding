@@ -18,8 +18,6 @@ I'm xiaolu🦌, a front-end engineer.
 </p>
 
 
-<img src="https://w.wallhaven.cc/full/v9/wallhaven-v9v3r5.jpg" width="600"/>
-
 <h3><img src="https://slackmojis.com/emojis/7421-typingcat/download" width="30"> Source code analysis <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="30"></h3>
 <table>
   <thead align="center">
@@ -43,8 +41,6 @@ I'm xiaolu🦌, a front-end engineer.
     </tr>
   </tbody>
 </table>
-
-<br/>
 
 <h3><img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"> Daily practice <img src="https://slackmojis.com/emojis/12806-meow_attention/download" width="30"></h3>
 
