@@ -18,7 +18,7 @@ I'm xiaolu🦌, a front-end engineer.
 </p>
 
 
-<h3><img src="https://slackmojis.com/emojis/7421-typingcat/download" width="30"> Source code analysis <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="30"></h3>
+<h3><img src="https://slackmojis.com/emojis/7421-typingcat/download" width="30"> Source code analysis <img src="https://slackmojis.com/emojis/3643-cool-doge/download" width="32"></h3>
 <table>
   <thead align="center">
     <tr border: none;>
