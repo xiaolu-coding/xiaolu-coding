@@ -42,7 +42,7 @@ I'm xiaolu🦌, a front-end engineer.
   </tbody>
 </table>
 
-<h3><img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"> Daily practice <img src="https://slackmojis.com/emojis/12806-meow_attention/download" width="30"></h3>
+<h3><img src="https://slackmojis.com/emojis/10521-meow_code/download" width="30"> Daily practice <img src="https://slackmojis.com/emojis/12806-meow_attention/download" width="30"> </h3>
 
 <table>
   <thead align="center">
