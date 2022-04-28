@@ -2,7 +2,7 @@
 
 ```typescript
 Welcome to my page!
-I'm xiaolu🦌, a front-end engineer.
+I'm xiaolu🦌, a front-end engineer .
 ```
 
 <h3>Things I code with</h3>
