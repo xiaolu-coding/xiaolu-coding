@@ -56,6 +56,10 @@ I'm xiaolu🦌, a front-end engineer.
       <td><a href="https://github.com/xiaolu-coding/type-challenges"><b>typescript type-challenges</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/xiaolu-coding/type-challenges?style=flat-square&labelColor=343b41"/></td>
     </tr>
+     <tr>
+      <td><a href="https://github.com/xiaolu-coding/leetcode"><b>leetcode</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/xiaolu-coding/leetcode?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
